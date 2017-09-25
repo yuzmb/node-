@@ -1,0 +1,14 @@
+{
+  "name": "webpack-sample-project",
+  "version": "1.0.0",
+  "description": "node爬虫",
+  "repository": "not",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "eventproxy": "^1.0.0",
+    "express": "^4.15.4",
+    "superagent": "^3.6.0"
+  }
+}
